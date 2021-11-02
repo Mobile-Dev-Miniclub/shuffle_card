@@ -1,2 +1,1 @@
-# shuffle_card
-This late project of shuffle card. 
+A simple command-line application.
